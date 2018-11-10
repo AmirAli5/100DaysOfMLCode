@@ -13,3 +13,6 @@
 
 ## Day 5: November 10 , 2018
 #### Today's Progress :Social_Network_Ads Challenges Prediction using Random Forest Classifier approach with Scikit Learn
+
+## Day 6: November 11 , 2018
+#### Today's Progress :Monthly Access Return Challenge Using the Random Forrest Regression Approach with Scikit Learn
