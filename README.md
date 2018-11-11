@@ -16,3 +16,6 @@
 
 ## Day 6: November 11 , 2018
 #### Today's Progress :Monthly Access Return Challenge Using the Random Forrest Regression Approach with Scikit Learn
+
+## Day 7: November 12 , 2018
+#### Today's Progress :Iris datset(UCI) Prediction using the K nearest neighbor(kNN) with Scikit Learn
