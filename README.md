@@ -19,3 +19,6 @@
 
 ## Day 7: November 12 , 2018
 #### Today's Progress :Iris datset(UCI) Prediction using the K nearest neighbor(kNN) with Scikit Learn
+
+## Day 8: November 13 , 2018
+#### Today's Progress :Breast Cancer Coimbra Dataset (UCI) prediction using Logistic Regression with Scikit Learn
