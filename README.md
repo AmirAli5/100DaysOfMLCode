@@ -22,3 +22,6 @@
 
 ## Day 8: November 13 , 2018
 #### Today's Progress :Breast Cancer Coimbra Dataset (UCI) prediction using Logistic Regression with Scikit Learn
+
+## Day 9: November 14 , 2018
+#### Today's Progress :Blood Transfusion Service Center Data Set(UCI) prediction using SVM Classifier approach with Scikit Learn
