@@ -25,3 +25,6 @@
 
 ## Day 9: November 14 , 2018
 #### Today's Progress :Blood Transfusion Service Center Data Set(UCI) prediction using SVM Classifier approach with Scikit Learn
+
+## Day 10: November 15 , 2018
+#### Today's Progress :Delay in AIDS Reporting in England and Wales prediction using SVM Regression Approach with Scikit Learn
