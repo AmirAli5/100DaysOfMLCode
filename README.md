@@ -31,3 +31,6 @@
 
 ## Day 11: November 16 , 2018
 #### Today's Progress :Recommendation System for Market Basket Optimisation using Apriori Algorithm (Association Rule)
+
+## Day 12: November 17 , 2018
+#### Today's Progress :Recommendation System for Market Analysis using FP-Growth Algorithm(Association Rule) from Scratch in python
