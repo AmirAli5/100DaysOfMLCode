@@ -36,4 +36,4 @@
 #### Today's Progress :Recommendation System for Market Analysis using FP-Growth Algorithm(Association Rule) from Scratch in python
 
 ## Day 13: November 18 , 2018
-#### Today's Progress :Mall Customers dataset prediction for different customer using k-Mean Clusterning in Scikit Learn
+#### Today's Progress :Mall Customers dataset prediction for different customer using k-Mean Clusterning in Scikit Learn (continue)
