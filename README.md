@@ -37,3 +37,6 @@
 
 ## Day 13: November 18 , 2018
 #### Today's Progress :Mall Customers dataset prediction for different customer using k-Mean Clusterning in Scikit Learn (continue)
+
+## Day 14: November 19 , 2018
+#### Today's Progress :Mall Customers dataset prediction for different customer using k-Mean Clusterning in Scikit Learn (complete)
