@@ -43,3 +43,6 @@
 
 ## Day 15: November 20 , 2018
 #### Today's Progress :Mall Customers dataset prediction for different customer using Hierarchical Clustering in Scikit Learn (continue)
+
+## Day 16: November 21 , 2018
+#### Today's Progress :Mall Customers dataset prediction for different customer using Hierarchical Clustering in Scikit Learn (complete)
