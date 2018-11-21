@@ -46,3 +46,7 @@
 
 ## Day 16: November 21 , 2018
 #### Today's Progress :Mall Customers dataset prediction for different customer using Hierarchical Clustering in Scikit Learn (complete)
+
+## Day 17: November 22 , 2018
+#### Today's Progress :Wine dataset from (UCI) using the PCA technique for Dimensionality Reduction in Scikit Learn (continue)
+
