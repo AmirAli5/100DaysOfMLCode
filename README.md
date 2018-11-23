@@ -53,3 +53,6 @@
 ## Day 18: November 23 , 2018
 #### Today's Progress :Wine dataset from (UCI) using the PCA technique for Dimensionality Reduction in Scikit Learn (complete)
 
+## Day 19: November 24 , 2018
+#### Today's Progress :Wine dataset from (UCI) using the LDA technique for Dimensionality Reduction in Scikit Learn (continue)
+
