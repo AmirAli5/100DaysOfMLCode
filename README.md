@@ -59,3 +59,6 @@
 ## Day 20: November 25 , 2018
 #### Today's Progress :Wine dataset from (UCI) using the LDA technique for Dimensionality Reduction in Scikit Learn (complete)
 
+## Day 21: November 26 , 2018
+#### Today's Progress :## Churn Modeling Problem using Artificial Neural Network  in Keras and Tensorflow (continous)
+
