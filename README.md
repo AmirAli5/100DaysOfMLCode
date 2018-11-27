@@ -65,3 +65,6 @@
 ## Day 22: November 27 , 2018
 #### Today's Progress :## Churn Modeling Problem using Artificial Neural Network  in Keras and Tensorflow (continous)
 
+## Day 23: November 28 , 2018
+#### Today's Progress :## Churn Modeling Problem using Artificial Neural Network  in Keras and Tensorflow (complete)
+
