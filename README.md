@@ -60,11 +60,18 @@
 #### Today's Progress :Wine dataset from (UCI) using the LDA technique for Dimensionality Reduction in Scikit Learn (complete)
 
 ## Day 21: November 26 , 2018
-#### Today's Progress :## Churn Modeling Problem using Artificial Neural Network  in Keras and Tensorflow (continous)
+#### Today's Progress :Churn Modeling Problem using Artificial Neural Network  in Keras and Tensorflow (continous)
 
 ## Day 22: November 27 , 2018
-#### Today's Progress :## Churn Modeling Problem using Artificial Neural Network  in Keras and Tensorflow (continous)
+#### Today's Progress :Churn Modeling Problem using Artificial Neural Network  in Keras and Tensorflow (continous)
 
 ## Day 23: November 28 , 2018
-#### Today's Progress :## Churn Modeling Problem using Artificial Neural Network  in Keras and Tensorflow (complete)
+#### Today's Progress :Churn Modeling Problem using Artificial Neural Network  in Keras and Tensorflow (complete)
+
+## Day 24: November 29 , 2018
+#### Today's Progress :Single new prediction from Churn Modeling Problem using Artificial Neural Network
+
+## Day 25: November 30 , 2018
+#### Today's Progress :Evaluating, Improving and Tuning the ANN in Keras and Tensorflow
+
 
