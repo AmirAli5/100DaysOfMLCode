@@ -74,4 +74,7 @@
 ## Day 25: November 30 , 2018
 #### Today's Progress :Evaluating, Improving and Tuning the ANN in Keras and Tensorflow
 
+## Day 26: November 1 , 2018
+#### Today's Progress :Dropout Regularization to reduce overfitting the ANN in Keras and Tensorflow
+
 
