@@ -77,4 +77,7 @@
 ## Day 26: December 1 , 2018
 #### Today's Progress :Dropout Regularization to reduce overfitting the ANN in Keras and Tensorflow
 
+## Day 27: December 2 , 2018
+#### Today's Progress :Adding some more hidden layer to improve and Tuning the ANN in Keras and Tensorflow
+
 
