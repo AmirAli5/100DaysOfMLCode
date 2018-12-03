@@ -80,4 +80,7 @@
 ## Day 27: December 2 , 2018
 #### Today's Progress :Adding some more hidden layer to improve and Tuning the ANN in Keras and Tensorflow
 
+## Day 28: December 3 , 2018
+#### Today's Progress :Artificial Neural Network Implementation in Tensorflow and Keras(complete)
+
 
