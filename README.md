@@ -88,3 +88,6 @@
 
 ## Day 30: December 5 , 2018
 #### Today's Progress : Image Captioning (cat & dog dataset) Using Convolutional Neural Network in Keras & Tensorflow (continous)
+
+## Day 31: December 6 , 2018
+#### Today's Progress : Image Captioning (cat & dog dataset) Using Convolutional Neural Network in Keras & Tensorflow (continous)
