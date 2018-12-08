@@ -94,3 +94,6 @@
 
 ## Day 32: December 7 , 2018
 #### Today's Progress : Adding more convolution layer in cat & dog dataset Using Convolutional Neural Network in Keras & Tensorflow
+
+## Day 33: December 8 , 2018
+#### Today's Progress : Making a new Prediction of Single image of Cat and Dog Using Convolutional Neural Network in Keras & Tensorflow
