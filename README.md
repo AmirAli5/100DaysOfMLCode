@@ -109,3 +109,6 @@
 
 ## Day 37: December 12 , 2018
 #### Today's Progress : Google Stock Price Prediction(Stanford Paper implementation) using Recurrent Neural Network in Keras and Tensorflow (advance next day work)
+
+## Day 38: December 13 , 2018
+#### Today's Progress : Google Stock Price Prediction(Stanford Paper implementation) using Recurrent Neural Network in Keras and Tensorflow (advance next day work)
