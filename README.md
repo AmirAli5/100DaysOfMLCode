@@ -100,3 +100,6 @@
 
 ## Day 34: December 9 , 2018
 #### Today's Progress : Implementation of Cat & dog dataset Using Convolutional Neural Network in Keras & Tensorflow (complete)
+
+## Day 35: December 10 , 2018
+#### Today's Progress : Google Stock Price Prediction(Stanford Paper implementation) using Recurrent Neural Network in Keras and Tensorflow (continous)
