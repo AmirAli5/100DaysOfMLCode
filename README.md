@@ -117,4 +117,7 @@
 #### Today's Progress : Google Stock Price Prediction(Stanford Paper implementation) using Recurrent Neural Network in Keras and Tensorflow (Visualization)
 
 ## Day 40: December 15 , 2018
-#### Today's Progress : Stalog (Australian Credit Approval ) Dataset from UCI using Self Organization Map (continous)
+#### Today's Progress : Stalog (Australian Credit Approval ) Dataset from UCI using Self Organization Map (data preprocessing)(continous)
+
+## Day 41: December 15 , 2018
+#### Today's Progress : Stalog (Australian Credit Approval ) Dataset from UCI using Self Organization Map (building the SOM)(continous)
