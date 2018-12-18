@@ -124,3 +124,6 @@
 
 ## Day 42: December 17 , 2018
 #### Today's Progress : Stalog (Australian Credit Approval ) Dataset from UCI using Self Organization Map (visualize the result)(continous)
+
+## Day 43: December 18 , 2018
+#### Today's Progress : Stalog (Australian Credit Approval ) Dataset from UCI using Self Organization Map (complete)
