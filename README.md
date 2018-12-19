@@ -127,3 +127,7 @@
 
 ## Day 43: December 18 , 2018
 #### Today's Progress : Stalog (Australian Credit Approval ) Dataset from UCI using Self Organization Map (complete)
+
+
+## Day 44: December 19 , 2018
+#### Today's Progress : Recommendation System for Movies in Pytorch using the Boltzmann Machine (continous)
