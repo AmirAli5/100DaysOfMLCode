@@ -131,3 +131,6 @@
 
 ## Day 44: December 19 , 2018
 #### Today's Progress : Recommendation System for Movies in Pytorch using the Boltzmann Machine (continous)
+
+## Day 45: December 20 , 2018
+#### Today's Progress : Recommendation System for Movies in Pytorch using the Boltzmann Machine (continous)
