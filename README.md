@@ -146,3 +146,6 @@
 
 ## Day 49: December 24 , 2018
 #### Today's Progress : Recommendation System for Movies in Pytorch using the Boltzmann Machine (complete)
+
+## Day 50: December 25 , 2018
+#### Today's Progress : Recommendation System for Movies in Pytorch using the Stack Auto Encoder (continous)
