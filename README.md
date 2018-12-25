@@ -148,4 +148,4 @@
 #### Today's Progress : Recommendation System for Movies in Pytorch using the Boltzmann Machine (complete)
 
 ## Day 50: December 25 , 2018
-#### Today's Progress : Recommendation System for Movies in Pytorch using the Stack Auto Encoder (continous)
+#### Today's Progress : Implementation of Stack Auto Encoder in pytorch using the dataset of Grouplens research (continous)
