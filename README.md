@@ -152,3 +152,6 @@
 
 ## Day 51: December 26 , 2018
 #### Today's Progress : Implementation of Stack Auto Encoder in pytorch using the dataset of Grouplens research (continous)
+
+## Day 52: December 27 , 2018
+#### Today's Progress : Implementation of Stack Auto Encoder in pytorch using the dataset of Grouplens research (continous)
