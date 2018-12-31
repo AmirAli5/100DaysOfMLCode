@@ -166,4 +166,4 @@
 #### Today's Progress : Implementation of Stack Auto Encoder in pytorch using the dataset of Grouplens research (testing  step complete)
 
 ## Day 56: December 31 , 2018
-#### Today's Progress : Face, Eye and Smile Detection using OpenCV in Computer Vision
+#### Today's Progress : Face, Eye and Smile Detection using OpenCV in Computer Vision(Continuous)
