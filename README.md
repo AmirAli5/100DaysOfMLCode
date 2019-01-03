@@ -173,3 +173,6 @@
 
 ## Day 58: January 02 , 2019
 #### Today's Progress : Face, Eye and Smile Detection using OpenCV in Computer Vision(Complete)
+
+## Day 59: January 03 , 2019
+#### Today's Progress : Object Detection using Single Shot Detection in Computer Vision(continuous)
