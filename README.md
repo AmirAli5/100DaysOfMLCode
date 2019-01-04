@@ -176,3 +176,6 @@
 
 ## Day 59: January 03 , 2019
 #### Today's Progress : Object Detection using Single Shot Detection in Computer Vision(continuous)
+
+## Day 60: January 04 , 2019
+#### Today's Progress : Object Detection using Single Shot Detection in Computer Vision(complete)
