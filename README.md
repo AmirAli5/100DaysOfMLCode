@@ -179,3 +179,6 @@
 
 ## Day 60: January 04 , 2019
 #### Today's Progress : Object Detection using Single Shot Detection in Computer Vision(complete)
+
+## Day 61: January 05 , 2019
+#### Today's Progress : MNIST-Handwritten-Digits-Recognition-Using-Deep-Neural-Network (continuous)
