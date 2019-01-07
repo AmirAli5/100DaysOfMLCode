@@ -186,5 +186,5 @@
 ## Day 62: January 06 , 2019
 #### Today's Progress : MNIST-Handwritten-Digits-Recognition-Using-Deep-Neural-Network (continuous)
 
-## Day 63: January 06 , 2019
+## Day 63: January 07 , 2019
 #### Today's Progress : MNIST-Handwritten-Digits-Recognition-Using-Deep-Neural-Network (continuous)
