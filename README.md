@@ -192,3 +192,6 @@
 ## Day 64: January 08 , 2019
 #### Today's Progress : MNIST-Handwritten-Digits-Recognition-Using-Deep-Neural-Network (complete)
 
+## Day 65: January 09 , 2019
+#### Today's Progress : CIFAR-10:Object Recognition in Images Using Deep Convolutional Neural Network(DCNN) (continuous)
+
