@@ -195,3 +195,6 @@
 ## Day 65: January 09 , 2019
 #### Today's Progress : CIFAR-10:Object Recognition in Images Using Deep Convolutional Neural Network(DCNN) (continuous)
 
+## Day 66: January 10 , 2019
+#### Today's Progress : CIFAR-10:Object Recognition in Images Using Deep Convolutional Neural Network(DCNN) (continuous)
+
