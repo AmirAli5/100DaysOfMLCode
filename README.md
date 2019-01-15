@@ -209,3 +209,6 @@
 
 ## Day 70: January 14 , 2019
 #### Today's Progress : CIFAR-10:Object Recognition in Images Using Deep Convolutional Neural Network(DCNN) (complete)
+
+## Day 71: January 15 , 2019
+#### Today's Progress : Image Creation with Deep Convolutional GANs(Generative Adversarial Networks) (continuous)
