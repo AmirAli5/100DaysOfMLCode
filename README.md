@@ -227,3 +227,6 @@
 
 ## Day 76: January 20 , 2019
 #### Today's Progress : Image Creation with Deep Convolutional GANs(Generative Adversarial Networks) (continuous)
+
+## Day 77: January 21 , 2019
+#### Today's Progress : Image Creation with Deep Convolutional GANs(Generative Adversarial Networks) (complete)
