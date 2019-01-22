@@ -230,3 +230,6 @@
 
 ## Day 77: January 21 , 2019
 #### Today's Progress : Image Creation with Deep Convolutional GANs(Generative Adversarial Networks) (complete)
+
+## Day 78: January 22 , 2019
+#### Today's Progress : Packt Computer Vision with Python3 - Digit Recognition (continuous)
