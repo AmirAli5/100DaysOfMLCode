@@ -236,3 +236,6 @@
 
 ## Day 79: January 23 , 2019
 #### Today's Progress : Packt Computer Vision with Python3 - Digit Recognition (continuous)
+
+## Day 80: January 29 , 2019
+#### Today's Progress : Packt Computer Vision with Python3 - Digit Recognition (complete)
