@@ -62,7 +62,9 @@
 ## Day 20: November 25 , 2018
 #### Today's Progress :Wine dataset from (UCI) using the LDA technique for Dimensionality Reduction in Scikit Learn (complete)
 
+
 ## <---------------------------------Deep Learning ------------------------------->
+
 
 ## Day 21: November 26 , 2018
 #### Today's Progress :Churn Modeling Problem using Artificial Neural Network  in Keras and Tensorflow (continous)
@@ -110,13 +112,13 @@
 #### Today's Progress : Google Stock Price Prediction(Stanford Paper implementation) using Recurrent Neural Network in Keras and Tensorflow (continous)
 
 ## Day 36: December 11 , 2018
-#### Today's Progress : Google Stock Price Prediction(Stanford Paper implementation) using Recurrent Neural Network in Keras and Tensorflow (advance next day work)
+#### Today's Progress : Google Stock Price Prediction(Stanford Paper implementation) using Recurrent Neural Network in Keras and Tensorflow (continuous)
 
 ## Day 37: December 12 , 2018
-#### Today's Progress : Google Stock Price Prediction(Stanford Paper implementation) using Recurrent Neural Network in Keras and Tensorflow (advance next day work)
+#### Today's Progress : Google Stock Price Prediction(Stanford Paper implementation) using Recurrent Neural Network in Keras and Tensorflow (continuous)
 
 ## Day 38: December 13 , 2018
-#### Today's Progress : Google Stock Price Prediction(Stanford Paper implementation) using Recurrent Neural Network in Keras and Tensorflow (advance next day work)
+#### Today's Progress : Google Stock Price Prediction(Stanford Paper implementation) using Recurrent Neural Network in Keras and Tensorflow (continuous)
 
 ## Day 39: December 14 , 2018
 #### Today's Progress : Google Stock Price Prediction(Stanford Paper implementation) using Recurrent Neural Network in Keras and Tensorflow (Visualization)
@@ -248,4 +250,4 @@
 ## Day 80: January 29 , 2019
 #### Today's Progress : Packt Computer Vision with Python3 - Digit Recognition (complete)
 
-## <-------------------------------Natural Language Processing ----------------------------->
+## <-------------------------Natural Language Processing ------------------------>
