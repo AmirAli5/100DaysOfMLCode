@@ -62,6 +62,8 @@
 ## Day 20: November 25 , 2018
 #### Today's Progress :Wine dataset from (UCI) using the LDA technique for Dimensionality Reduction in Scikit Learn (complete)
 
+## <---------------------------------Deep Learning ------------------------------->
+
 ## Day 21: November 26 , 2018
 #### Today's Progress :Churn Modeling Problem using Artificial Neural Network  in Keras and Tensorflow (continous)
 
@@ -131,7 +133,6 @@
 ## Day 43: December 18 , 2018
 #### Today's Progress : Stalog (Australian Credit Approval ) Dataset from UCI using Self Organization Map (complete)
 
-
 ## Day 44: December 19 , 2018
 #### Today's Progress : Recommendation System for Movies in Pytorch using the Boltzmann Machine (continous)
 
@@ -168,6 +169,8 @@
 ## Day 55: December 30 , 2018
 #### Today's Progress : Implementation of Stack Auto Encoder in pytorch using the dataset of Grouplens research (testing  step complete)
 
+## <---------------------------------Open CV ------------------------------->
+
 ## Day 56: December 31 , 2018
 #### Today's Progress : Face, Eye and Smile Detection using OpenCV in Computer Vision(Continuous)
 
@@ -182,6 +185,8 @@
 
 ## Day 60: January 04 , 2019
 #### Today's Progress : Object Detection using Single Shot Detection in Computer Vision(complete)
+
+## <---------------------------------Computer Vision ------------------------------->
 
 ## Day 61: January 05 , 2019
 #### Today's Progress : MNIST-Handwritten-Digits-Recognition-Using-Deep-Neural-Network (continuous)
@@ -242,3 +247,5 @@
 
 ## Day 80: January 29 , 2019
 #### Today's Progress : Packt Computer Vision with Python3 - Digit Recognition (complete)
+
+## <-------------------------------Natural Language Processing ----------------------------->
