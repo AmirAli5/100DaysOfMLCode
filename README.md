@@ -249,3 +249,6 @@
 #### Today's Progress : Packt Computer Vision with Python3 - Digit Recognition (complete)
 
 ## <-------------------------Natural Language Processing ------------------------>
+
+## Day 81: January 30 , 2019
+#### Today's Progress : Natural Language Processing Core(Tokenizing Words and Sentences, Stemming)
