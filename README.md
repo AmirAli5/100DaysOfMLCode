@@ -252,3 +252,6 @@
 
 ## Day 81: January 30 , 2019
 #### Today's Progress : Natural Language Processing Core(Tokenizing Words and Sentences, Stemming)
+
+## Day 82: January 31 , 2019
+#### Today's Progress : Natural Language Processing Core(Lemmatization, stop word removal, part of speech tagging)
