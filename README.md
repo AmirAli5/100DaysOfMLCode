@@ -255,3 +255,6 @@
 
 ## Day 82: January 31 , 2019
 #### Today's Progress : Natural Language Processing Core(Lemmatization, stop word removal, part of speech tagging)
+
+## Day 83: February 1 , 2019
+#### Today's Progress : Natural Language Processing Core(Nammed Entity Recognition, Building Bags of Word Model)
