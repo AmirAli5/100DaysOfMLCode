@@ -169,7 +169,7 @@
 ## Day 55: December 30 , 2018
 #### Today's Progress : Implementation of Stack Auto Encoder in pytorch using the dataset of Grouplens research (testing  step complete)
 
-## <---------------------------------Open CV ------------------------------->
+## <---------------------------------Computer Vision ------------------------------->
 
 ## Day 56: December 31 , 2018
 #### Today's Progress : Face, Eye and Smile Detection using OpenCV in Computer Vision(Continuous)
@@ -185,8 +185,6 @@
 
 ## Day 60: January 04 , 2019
 #### Today's Progress : Object Detection using Single Shot Detection in Computer Vision(complete)
-
-## <---------------------------------Computer Vision ------------------------------->
 
 ## Day 61: January 05 , 2019
 #### Today's Progress : MNIST-Handwritten-Digits-Recognition-Using-Deep-Neural-Network (continuous)
