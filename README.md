@@ -256,3 +256,6 @@
 
 ## Day 83: February 1 , 2019
 #### Today's Progress : Natural Language Processing Core(Named Entity Recognition, Building Bags of Word Model)
+
+## Day 84: February 2 , 2019
+#### Today's Progress : Natural Language Processing Core(Building the TF-IDF Model using NLTK)
