@@ -259,3 +259,6 @@
 
 ## Day 84: February 2 , 2019
 #### Today's Progress : Natural Language Processing Core(Building the TF-IDF Model using NLTK)
+
+## Day 85: February 3 , 2019
+#### Today's Progress : Natural Language Processing Core(Building the N-Gram Model for both Character and Word using NLTK)
