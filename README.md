@@ -262,3 +262,6 @@
 
 ## Day 85: February 3 , 2019
 #### Today's Progress : Natural Language Processing Core(Building the N-Gram Model for both Character and Word using NLTK)
+
+## Day 86: February 4 , 2019
+#### Today's Progress : Natural Language Processing Core(Latent Semantic Analysis using Scikit Learn and nltk)
