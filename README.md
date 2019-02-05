@@ -265,3 +265,6 @@
 
 ## Day 86: February 4 , 2019
 #### Today's Progress : Natural Language Processing Core(Latent Semantic Analysis using Scikit Learn and nltk)
+
+## Day 87: February 5 , 2019
+#### Today's Progress : Natural Language Processing Core(find Synonyms and Antonyms of word using nltk, Word Negation Tracking)
