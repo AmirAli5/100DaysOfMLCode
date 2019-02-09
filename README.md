@@ -277,3 +277,6 @@
 
 ## Day 90: February 8 , 2019
 #### Today's Progress : Text Classification using cornell sentiment analysis dataset (continuous) 
+
+## Day 91: February 9 , 2019
+#### Today's Progress : Text Classification using cornell sentiment analysis dataset (complete) 
