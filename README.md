@@ -280,3 +280,6 @@
 
 ## Day 91: February 9 , 2019
 #### Today's Progress : Text Classification using cornell sentiment analysis dataset (complete) 
+
+## Day 92: February 10 , 2019
+#### Today's Progress : Twitter Sentiment Analysis (continuous)
