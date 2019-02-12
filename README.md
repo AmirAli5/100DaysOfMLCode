@@ -286,3 +286,6 @@
 
 ## Day 93: February 11 , 2019
 #### Today's Progress : Twitter Sentiment Analysis (continuous)
+
+## Day 94: February 12 , 2019
+#### Today's Progress : Twitter Sentiment Analysis (continuous)
