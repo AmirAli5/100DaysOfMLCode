@@ -267,7 +267,7 @@
 #### Today's Progress : Natural Language Processing Core(Latent Semantic Analysis using Scikit Learn and nltk)
 
 ## Day 87: February 5 , 2019
-#### Today's Progress : Natural Language Processing Core(find Synonyms and Antonyms of word using nltk, Word Negation Tracking)
+#### Today's Progress : Natural Language Processing Core(find Synonyms and Antonyms of word using nltk,  Word Negation Tracking)
 
 ## Day 88: February 6 , 2019
 #### Today's Progress : Text Classification using cornell sentiment analysis dataset (continuous)
