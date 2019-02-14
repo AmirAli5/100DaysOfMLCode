@@ -292,3 +292,6 @@
 
 ## Day 95: February 13 , 2019
 #### Today's Progress : Twitter Sentiment Analysis (complete)
+
+## Day 96: February 14 , 2019
+#### Today's Progress : Text Summarization (continuous)
