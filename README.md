@@ -298,3 +298,6 @@
 
 ## Day 97: February 15 , 2019
 #### Today's Progress : Text Summarization (continuous)
+
+## Day 98: February 16 , 2019
+#### Today's Progress : Text Summarization (complete)
