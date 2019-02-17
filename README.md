@@ -301,3 +301,6 @@
 
 ## Day 98: February 16 , 2019
 #### Today's Progress : Text Summarization (complete)
+
+## Day 99: February 17 , 2019
+#### Today's Progress : Word2Vec (continuous)
