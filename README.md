@@ -1,4 +1,6 @@
 # 100DaysOfMLCode
+I hereby accept Siraj Raval’s 100 Days of ML Code Challenge! and Complete in 100 days from November to February. I have cover  Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing in Complete 100 Days.
+As you Can see below:
 
    ## <---------------------------------Machine Learning ------------------------------->
 
