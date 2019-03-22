@@ -1,5 +1,5 @@
 # 100DaysOfMLCode
-I hereby accept Siraj Raval’s 100 Days of ML Code Challenge! And Complete in 100 days from November to February. On the basis of my past one and half years experience I have done different projects in 100 days related to:
+I hereby accept Siraj Raval’s 100 Days of ML Code Challenge! And Complete in 100 days from November to February. On the basis of my past one and half years experience I have done different projects in 100 Days related to:
 1.	Machine Learning
 2.	Deep Learning
 3.	Computer Vision
