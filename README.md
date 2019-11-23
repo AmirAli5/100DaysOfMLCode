@@ -1,14 +1,12 @@
 # 100DaysOfMLCode
-I hereby accept Siraj Raval’s 100 Days of ML Code Challenge! And Complete in 100 days from November to February. On the basis of my past one and half years experience I have done different projects in 100 Days related to:
+In this repository, I upload my 100 Days ML Code which I have learned from different courses(Coursera, udemy, edx, udacity), different websites blogs, different tutorials from YouTube, books, and research papers.  And this code is basically Siraj Raval’s 100 Days of ML Code Challenge!  Which I completed in 100 days from November 2018 to February 2019. On the basis of my past one and half years of experience, I have done different projects in 100 Days related to:
 1.	Machine Learning
 2.	Deep Learning
 3.	Computer Vision
 4.	Natural Language Processing
+
 #### Doumentation of my 100DaysMLCode:
 https://drive.google.com/file/d/1vjhQAE0qlnCP3avTJGpsgTjQ8zcS6HW7/view
-
-#### My LinkedIn Profile:
-https://www.linkedin.com/in/amiralicheema/
 
 
    ## <---------------------------------Machine Learning ------------------------------->
