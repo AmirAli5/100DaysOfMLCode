@@ -1,4 +1,4 @@
-# 100DaysOfMLCode
+# 100 Days Of ML Code
 In this repository, I upload my 100 Days ML Code which I have learned from different courses(Coursera, udemy, edx, udacity), different websites blogs, different tutorials from YouTube, books, and research papers.  And this code is basically Siraj Raval’s 100 Days of ML Code Challenge!  Which I completed in 100 days from November 2018 to February 2019. On the basis of my past one and half years of experience, I have done different projects in 100 Days related to:
 1.	Machine Learning
 2.	Deep Learning
